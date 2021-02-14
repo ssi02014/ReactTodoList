@@ -3,7 +3,7 @@
 
 <br />
 
-### ✅ Click URL : https://ssi02014.github.io/ReactTodoList/
+### ✅ Github Page : https://ssi02014.github.io/ReactTodoList/
 
 <br />
 
@@ -11,7 +11,8 @@
 ![13](https://user-images.githubusercontent.com/64779472/97331859-2f840980-18bd-11eb-9ef4-5d41916242ba.PNG)
 
 ## 🔖 React TodoList App을 사용하기 전 행동 수칙
-1. **" npm install or yarn install "** 을 App을 clone하신 폴더에서 입력해주세요. (프론트엔드 종속성 다운받기)
+1. **" npm install or yarn install "** 을 App을 Clone하신 폴더에서 입력해주세요. (프론트엔드 종속성 다운받기)
+2. **" npm start or yarn start "** 를 통해 App을 실행시켜주세요.
 
 <br />
 <br />
