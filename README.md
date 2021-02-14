@@ -3,24 +3,21 @@
 
 <br />
 
-### Click URL : https://ssi02014.github.io/ReactTodoList/ <h3> 
+### ✅ Click URL : https://ssi02014.github.io/ReactTodoList/
 
 <br />
 
 ## 🎥 HomePage View
 ![13](https://user-images.githubusercontent.com/64779472/97331859-2f840980-18bd-11eb-9ef4-5d41916242ba.PNG)
 
-<br />
-<br />
-
 ## 🔖 React TodoList App을 사용하기 전 행동 수칙
-1. **" npm install or yarn install "** 을 clone 폴더에서 입력해주세요. (프론트엔드 종속성 다운받기)
+1. **" npm install or yarn install "** 을 App을 clone하신 폴더에서 입력해주세요. (프론트엔드 종속성 다운받기)
 
 <br />
 <br />
 
-## 👨🏻‍💻 Youtube App 기능
-1. TodoList
+## 👨🏻‍💻 TodoList App 기능
+1. **TodoList**
     - TodoItem Insert 기능
     - TodoItem Remove 기능
     - TodoItem Toggle 기능
